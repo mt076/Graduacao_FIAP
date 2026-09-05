@@ -84,10 +84,6 @@ Como parte da avaliação de impacto do projeto, refletimos sobre o papel da tec
 
 ##  Como Executar
 
-Siga os passos abaixo para rodar o ambiente de simulação na sua máquina:
-
-##  Como Executar
-
 Siga o passo a passo abaixo para configurar e executar o ambiente de simulação. Clique nas seções para expandir as instruções detalhadas:
 
 <details>
