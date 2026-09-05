@@ -4,7 +4,7 @@
 
   <br>
 
-  <h1>🚀 Relatório Operacional de Pré-Decolagem<br><sub>(Aerospace Telemetry)</sub></h1>
+  <h1>Relatório Operacional de Pré-Decolagem<br><sub>(Aerospace Telemetry)</sub></h1>
 
   **Atividade Integradora FIAP - Ciência da Computação**
 
@@ -22,9 +22,9 @@
 
 <hr>
 
-## 📋 Resumo do Projeto
+##  Resumo do Projeto
 
-> 💡 **Objetivo:** Este projeto consiste em um ambiente analítico robusto desenvolvido em Python para avaliar as condições rigorosas de pré-decolagem de um veículo espacial. O sistema engloba desde a geração de dados sintéticos até a tomada de decisão autônoma.
+>  **Objetivo:** Este projeto consiste em um ambiente analítico robusto desenvolvido em Python para avaliar as condições rigorosas de pré-decolagem de um veículo espacial. O sistema engloba desde a geração de dados sintéticos até a tomada de decisão autônoma.
 
 O pipeline de dados gera telemetria (temperatura, bateria, pressão e integridade de módulos), injeta anomalias simulando cenários de crise e processa um **Algoritmo de Verificação** para decidir automaticamente entre dois estados críticos:
 
@@ -33,7 +33,7 @@ O pipeline de dados gera telemetria (temperatura, bateria, pressão e integridad
 
 <hr>
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 Para garantir a precisão matemática e a clareza analítica do sistema de telemetria, as seguintes bibliotecas foram empregadas:
 
@@ -45,7 +45,7 @@ Para garantir a precisão matemática e a clareza analítica do sistema de telem
 
 <hr>
 
-## 📊 Principais Funcionalidades
+##  Principais Funcionalidades
 
 Abaixo está o checklist de entregas integradas ao ambiente do projeto:
 
@@ -57,33 +57,33 @@ Abaixo está o checklist de entregas integradas ao ambiente do projeto:
 
 <hr>
 
-## 🌍 Reflexão Crítica & Impacto
+##  Reflexão Crítica & Impacto
 
 Como parte da avaliação de impacto do projeto, refletimos sobre o papel da tecnologia no avanço da humanidade e as responsabilidades inerentes à engenharia de software de missão crítica. 
 
 *Clique nas seções abaixo para expandir e ler as análises:*
 
 <details>
-  <summary><b>⚖️ Ética e Responsabilidade</b></summary>
+  <summary><b> Ética e Responsabilidade</b></summary>
   <br>
   O desenvolvimento de sistemas de missão crítica, como algoritmos de pré-decolagem, exige rigor técnico e transparência inegociáveis. Um falso positivo (<code>READY</code> indevido) pode resultar na perda de vidas e de bilhões de dólares, enquanto um falso negativo (<code>ABORT</code> indevido) atrasa cronogramas científicos importantes. A responsabilidade da engenharia de software reside em não apenas criar lógicas de decisão, mas testá-las exaustivamente contra falhas de hardware, garantindo a integridade operacional absoluta antes de qualquer ignição.
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Impacto Social da Exploração Espacial</b></summary>
+  <summary><b> Impacto Social da Exploração Espacial</b></summary>
   <br>
   A exploração espacial deixou de ser um projeto puramente governamental para se tornar um catalisador de inovação global. Os retornos sociais são imensos, desde o desenvolvimento de novos materiais e tecnologias médicas até o monitoramento avançado do clima terrestre por satélites (essencial para a agricultura e prevenção de desastres). Popularizar e baratear o acesso ao espaço democratiza essa infraestrutura, trazendo benefícios diretos para o cotidiano de toda a sociedade.
 </details>
 
 <details>
-  <summary><b>♻️ Sustentabilidade Tecnológica</b></summary>
+  <summary><b> Sustentabilidade Tecnológica</b></summary>
   <br>
   O futuro da presença humana no espaço depende da nossa capacidade de ser sustentável. A telemetria analisada neste projeto destaca o uso rigoroso de gestão de energia, monitorando perdas e autonomia. Estender essa visão significa projetar foguetes reutilizáveis, gerenciar de forma inteligente o lixo espacial (<i>space debris</i>) e otimizar fontes de energia renovável nos veículos e estações orbitais, garantindo que o avanço da fronteira espacial não repita os mesmos erros de exploração desmedida ocorridos na Terra.
 </details>
 
 <hr>
 
-## 🚀 Como Executar
+##  Como Executar
 
 Siga os passos abaixo para rodar o ambiente de simulação na sua máquina:
 
