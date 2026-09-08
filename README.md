@@ -56,6 +56,15 @@ Abaixo está o checklist de entregas integradas ao ambiente do projeto:
 
 <hr>
 
+##  Prints da Apresentação do Projeto
+<img width="1056" height="453" alt="Captura de tela 2026-09-08 184623" src="https://github.com/user-attachments/assets/447d269f-c23a-480b-ad5f-145c76b26cab" />
+<img width="1050" height="445" alt="Captura de tela 2026-09-08 184641" src="https://github.com/user-attachments/assets/854e6608-fd5e-4cd2-ad8a-fc0fdecd951b" />
+<img width="1057" height="502" alt="Captura de tela 2026-09-08 184602" src="https://github.com/user-attachments/assets/b1b6d814-8f69-4e33-a542-61edfa23cabe" />
+<img width="1028" height="361" alt="Captura de tela 2026-09-08 184613" src="https://github.com/user-attachments/assets/323078c5-cbf3-4903-bf20-08a1a1e2c009" />
+<img width="1042" height="584" alt="Captura de tela 2026-09-08 185448" src="https://github.com/user-attachments/assets/f7be2a9c-c707-4e06-80cc-7305ce933750" />
+
+<hr>
+
 ##  Reflexão Crítica & Impacto
 
 Como parte da avaliação de impacto do projeto, refletimos sobre o papel da tecnologia no avanço da humanidade e as responsabilidades inerentes à engenharia de software de missão crítica. 
