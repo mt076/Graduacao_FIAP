@@ -65,7 +65,7 @@ Abaixo está o checklist de entregas integradas ao ambiente do projeto:
 
 <hr>
 
-##  Reflexão Crítica & Impacto
+## RESUMO Reflexão Crítica & Impacto
 
 Como parte da avaliação de impacto do projeto, refletimos sobre o papel da tecnologia no avanço da humanidade e as responsabilidades inerentes à engenharia de software de missão crítica. 
 
